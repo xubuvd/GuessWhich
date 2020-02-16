@@ -11,5 +11,5 @@ The two agents communicate in natural language dialogue. Beginning of the dialog
 # Challenges
 GuessWhich is a more fundamental and challenging problem in Vision and Language tasks. It involves processing large amounts of images, and human's mental imagery that is spawned by a nature language Question-Answer-pairs.
 
-I'm looking for someone who like this challenging problem, please don't hesitate to contact me if you intend to work with me.
+<b>I'm looking for someone who like this challenging problem, please don't hesitate to contact me if you intend to work with me.</b>
 
