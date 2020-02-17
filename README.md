@@ -13,7 +13,7 @@ GuessWhich is a more fundamental and challenging problem in Vision-and-Language-
 
 <b>I'm looking for someone who are interested in this challenging problem, please don't hesitate to contact me if you intend to exchange with me.</b>
 
-# Current Vision-and-Language-Reasoning tasks, focuses on Visual Dialogue
+# Current Vision-and-Language-and-Reasoning tasks, focuses on Visual Dialogue
 1. Multimodal Dialogs(MMD), AAAI 2018<br>
 2. CoDraw, ACL 2019<br>
 3. GuessWhich, AAAI 2017<br>
