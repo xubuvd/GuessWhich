@@ -8,8 +8,29 @@ GuessWhich is an image-guessing game between two agents: Q-BOT and A-BOT, like t
 
 The two agents communicate in natural language dialogue. At the beginning of the dialog, they are presented with a large set of images, in which ABot randomly selects an image as the secret that is not known to Q-BOT. Q-Bot asks a sequence of free-form natural language questions and ABot responds with free-form answers. In the end QBot tries to identify the secret image from the fixed pool of images. If the right image is found, the dialogue is considered a success, elsewise, failure.
 
-# Challenges
+## Challenges
 GuessWhich is a more fundamental and challenging problem in Vision-and-Language-and-Reasoning tasks. It involves processing large amounts of images, and human's mental imagery that is spawned by a nature language Question-Answer-pairs.
 
 <b>I'm looking for someone who are interested in this challenging problem, please don't hesitate to contact me if you intend to exchange with me.</b>
 
+# Current Vision-and-Language-Reasoning tasks, focuses on Visual Dialogue
+1. Multimodal Dialogs(MMD), AAAI 2018<br>
+2. CoDraw, ACL 2019<br>
+3. GuessWhich, AAAI 2017<br>
+4. Multi-agent GuessWhich, AAMAS 2019<br>
+5. GuessWhat?!, CVPR 2017<br>
+6. EmbodiedQA, CVPR 2018<br>
+7. VideoNavQA, BMVC 2019<br>
+8. GuessNumber, SLT 2018<br>
+9. VisDial, CVPR 2017<br>
+10. Image-Grounded Conversations(IGC), CVPR 2017<br>
+11. VDQG, ICCV 2017<br>
+12. RDG-Image guessing game, LREC 2014<br>
+13. Deal or No Deal, CoRR 2017<br>
+14. Video-Grounded Dialogue Systems (VGDS), ACL 2019<br>
+15. Vision-Language Navigation (VLN), CVPR 2018<br>
+16. image captioning<br>
+17. Image Retrieval<br>
+18. Visually-grounded Referring Expressions<br>
+19. Multi-modal Verification<br>
+20. VQA<br>
