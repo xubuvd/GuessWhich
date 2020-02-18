@@ -1,7 +1,7 @@
 # About Me
 虚步, a Ph.D. student at BUPT. I am very fortunate to be advised by my advisor. My research is in the area of Vision, Language and Reasoning, currently with a focus on Visual Dialogue. In particular, I am interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Visual/Language Grounding, Visual Reasoning, Visual Question Generation and Visually-grounded Referring Expression.
 
-<b>Now I'm doing research on GuessWhich and Visual Dialog(VisDial)</b>, please feel free to concat me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
+<b>Now I'm doing research on GuessWhich and Visual Dialog(VisDial)</b>, please feel free to concat me via pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
 
 # GuessWhich
 GuessWhich is an image-guessing game between two agents: Q-BOT and A-BOT, like that of GuessWhat?! game that is an image object-guessing game between two players.
@@ -35,3 +35,5 @@ GuessWhich is a more fundamental and challenging problem in Vision-and-Language-
 19. Multi-modal Verification, ACL 2019<br>
 20. Viual Dialog based Referring Expression<br>
 21. VQA<br>
+
+
