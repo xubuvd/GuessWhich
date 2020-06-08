@@ -8,32 +8,40 @@ GuessWhich is a cooperative image-guessing game between two agents: Q-BOT and A-
 
 The two agents communicate in natural language dialogue. In the beginning, they can see a broader set of images, in which ABot randomly selects an image as the secret that is not known to Q-BOT. Q-Bot asks a sequence of free-form natural language questions and ABot responds with free-form answers. In the end, QBot tries to identify the secret image from the fixed pool of images. If the right image is found, the dialogue is considered a success, otherwise, failure.
 
+## 1. paper ...
+
 ## Challenges
 GuessWhich is a more fundamental and challenging problem in Vision-and-Language-and-Reasoning tasks. It involves processing large amounts of images, and human's mental imagery that is spawned by a natural language dialogue that consists of multi-round Question-Answer-pairs.
 
 <b>I'm looking for someone interested in this challenging problem, please don't hesitate to contact me if you intend to exchange ideas with me.</b>
 
 # Current Vision-and-Language-and-Reasoning tasks, focuses on Visual Dialogue
-1. Multimodal Dialogs(MMD), AAAI 2018<br>
-2. CoDraw, ACL 2019<br>
-3. GuessWhich, AAAI 2017<br>
-4. Multi-agent GuessWhich, AAMAS 2019<br>
-5. GuessWhat?!, CVPR 2017<br>
-6. EmbodiedQA, CVPR 2018<br>
-7. VideoNavQA, BMVC 2019<br>
-8. GuessNumber, SLT 2018<br>
-9. VisDial, CVPR 2017<br>
-10. Image-Grounded Conversations(IGC), CVPR 2017<br>
-11. VDQG, ICCV 2017<br>
-12. RDG-Image guessing game, LREC 2014<br>
-13. Deal or No Deal, CoRR 2017<br>
-14. Video-Grounded Dialogue Systems (VGDS), ACL 2019<br>
-15. Vision-Language Navigation (VLN), CVPR 2018<br>
-16. Image Captioning<br>
-17. Image Retrieval<br>
-18. Visually-grounded Referring Expressions<br>
-19. Multi-modal Verification, ACL 2019<br>
-20. Viual Dialog based Referring Expression<br>
-21. VQA<br>
+ LaVi Tasks | conference  | comment
+ ----------| :-----------:  | :-----------:
+ GuessWhich|AAAI 2017|:camel:
+ Multimodal Dialogs(MMD)|AAAI 2018|-
+ CoDraw|ACL 2019|-
+ GuessWhat?!|CVPR 2017|:smile:
+ Multi-agent GuessWhich|AAMAS 2019|-
+ Image-Chat|ACL 2020|
+ EmbodiedQA|CVPR 2018|
+ VideoNavQA|BMVC 2019|
+ GuessNumber|SLT 2018|
+ VisDial|CVPR 2017|:camel:
+ Image-Grounded Conversations(IGC)|CVPR 2017|
+ VDQG|ICCV 2017|
+ RDG-Image guessing game|LREC 2014|
+ Deal or No Deal|CoRR 2017|
+ Video-Grounded Dialogue Systems (VGDS)|ACL 2019|
+ Vision-Language Navigation (VLN)|CVPR 2018|
+ Image Captioning||
+ Image Retrieval||
+ Visually-grounded Referring Expressions|
+ Multi-modal Verification|ACL 2019|
+ Viual Dialog based Referring Expression||
+ VQA||
+ 
+ # Traning 
+ 
 
 
