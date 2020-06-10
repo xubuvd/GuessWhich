@@ -10,10 +10,10 @@ GuessWhich is a two player game played by Qbot and Abot. The goal of GuessWhich 
 
 The two agents communicate in natural language dialogue. In the beginning, they can see a broader set of images, in which ABot randomly selects an image as the secret that is not known to Q-BOT. Q-Bot asks a sequence of free-form natural language questions and ABot responds with free-form answers. In the end, QBot tries to identify the secret image from the fixed pool of images. If the right image is found, the dialogue is considered a success, otherwise, failure.
 
-## 1. paper CVPR 2021
-## 2. paper ACL 2021
-## 3. paper ICCV 2021
-## 4. paper NAACL 2021
+## 1. paper 
+## 2. paper 
+## 3. paper 
+## 4. paper 
 
 # PyTorch code for 
 This code is based on the PyTorch implementation of Learning Cooperative Visual Dialog Agents using Deep Reinforcement Learning [Das & Kottur et al., ICCV 2017].
