@@ -12,6 +12,8 @@ The two agents communicate in natural language dialogue. In the beginning, they 
 
 ## 1. paper CVPR 2021
 ## 2. paper ACL 2021
+## 3. paper ICCV 2021
+## 4. paper NAACL 2021
 
 # PyTorch code for 
 This code is based on the PyTorch implementation of Learning Cooperative Visual Dialog Agents using Deep Reinforcement Learning [Das & Kottur et al., ICCV 2017].
