@@ -14,6 +14,7 @@ The two agents communicate in natural language dialogue. In the beginning, they 
 ## 2. paper ACL 2021
 
 # PyTorch code for 
+This code is based on the PyTorch implementation of Learning Cooperative Visual Dialog Agents using Deep Reinforcement Learning [Das & Kottur et al., ICCV 2017].
 
 ## Challenges
 GuessWhich is a challenging visual-language problem. It involves processing large amounts of images, and human's mental imagery that is spawned by a natural language dialogue consists of multi-round Question-Answer-pairs.
