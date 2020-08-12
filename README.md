@@ -6,7 +6,7 @@ Now I've been working on the GuessWhich task and Visual Dialog(VisDial) task, pl
 # GuessWhich
 GuessWhich is a cooperative image-guessing game between two agents: Q-BOT and A-BOT, like that of GuessWhat?! game that is an image object-guessing game between two players.
 
-GuessWhich is a two player game played by Qbot and Abot. The goal of GuessWhich is to figure out a correct answer out of 9,628 test images by asking a sequence of questions. Abot can see the randomly assigned target image, which is unknown to Qbot. Qbot only observes a caption of the image generated from Neuraltalk2 (Vinyals & Le, 2015). To achieve the goal, Qbot asks a series of questions, to which Abot responds with a sentence. (this part is from the paper of ICLR 2019-Large-scale Answer in Questioner's Mind for Visual Dialog Question Generation, Sang-Woo Lee et al.)
+GuessWhich is a two player game played by Qbot and Abot. The goal of GuessWhich is to figure out a correct answer out of 9,628 test images by asking a sequence of questions. Abot can see the randomly assigned target image, which is unknown to Qbot. Qbot only observes a caption of the image generated from Neuraltalk2 (Vinyals & Le, 2015). To achieve the goal, Qbot asks a series of questions, to which Abot responds with a sentence. [This part is from the paper of ICLR 2019, Large-scale Answer in Questioner's Mind for Visual Dialog Question Generation, Sang-Woo Lee et al.]
 
 The two agents communicate in natural language dialogue. In the beginning, they can see a broader set of images, in which ABot randomly selects an image as the secret that is not known to Q-BOT. Q-Bot asks a sequence of free-form natural language questions and ABot responds with free-form answers. In the end, QBot tries to identify the secret image from the fixed pool of images. If the right image is found, the dialogue is considered a success, otherwise, failure.
 
@@ -45,6 +45,8 @@ Versions of relevant libraries:<br>
 
 ## Challenges
 GuessWhich is a challenging visual-language problem. It involves processing large amounts of images, and human's mental imagery that is spawned by a natural language dialogue consists of multi-round Question-Answer-pairs.
+
+# Performance
 
 
 # Current Vision-and-Language-and-Reasoning tasks, focuses on Visual Dialogue
