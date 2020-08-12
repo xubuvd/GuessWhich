@@ -12,11 +12,37 @@ The two agents communicate in natural language dialogue. In the beginning, they 
 
 ## 1. paper 
 ## 2. paper 
-## 3. paper 
-## 4. paper 
+
 
 # PyTorch code for 
 This code is based on the PyTorch implementation of Learning Cooperative Visual Dialog Agents using Deep Reinforcement Learning [Das & Kottur et al., ICCV 2017].
+## pytorch env
+PyTorch version: 1.2.0
+Is debug build: No
+CUDA used to build PyTorch: 10.0.130
+
+OS: Ubuntu 16.04.4 LTS
+GCC version: (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609
+CMake version: Could not collect
+
+Python version: 3.6
+Is CUDA available: Yes
+CUDA runtime version: 10.0.130
+GPU models and configuration:
+GPU 0: TITAN V
+GPU 1: TITAN V
+
+Nvidia driver version: 410.79
+cuDNN version: Could not collect
+
+Versions of relevant libraries:
+[pip3] msgpack-numpy==0.4.3.2
+[pip3] numpy==1.16.2
+[pip3] numpydoc==0.8.0
+[pip3] torch==1.2.0
+[pip3] torchfile==0.1.0
+[pip3] torchtext==0.7.0
+[conda] Could not collect
 
 ## Challenges
 GuessWhich is a challenging visual-language problem. It involves processing large amounts of images, and human's mental imagery that is spawned by a natural language dialogue consists of multi-round Question-Answer-pairs.
