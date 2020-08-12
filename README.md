@@ -14,8 +14,8 @@ The two agents communicate in natural language dialogue. In the beginning, they 
 ## 2. paper 
 
 
-# PyTorch code for 
-This code is based on the PyTorch implementation of Learning Cooperative Visual Dialog Agents using Deep Reinforcement Learning [Das & Kottur et al., ICCV 2017]. Github:https://github.com/batra-mlp-lab/visdial-rl<br>
+# Acknowledgements
+This PyTorch implementation is based on the PyTorch code of Learning Cooperative Visual Dialog Agents using Deep Reinforcement Learning [Das & Kottur et al., ICCV 2017]. Github:https://github.com/batra-mlp-lab/visdial-rl<br>
 
 ## pytorch env
 PyTorch version: 1.2.0<br>
