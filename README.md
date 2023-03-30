@@ -1,7 +1,5 @@
 # About Me
-虚步, a Ph.D. student at BUPT. I am very fortunate to be advised by my advisor. My research is in the area of Vision, Language, and Reasoning, with a focus on Visual Dialogue. I am particularly interested in building a visually-grounded conversational AI (social robot) that can see the world and talk with us in natural language. Other interests include Visual/Language Grounding, Visual Reasoning, Visual Question Generation, and Visually-grounded Referring Expression.
-
-Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-Videos(Video-Grounded Dialogue) task, please feel free to contact me with pangweitf@bupt.edu.cn or pangweitf@163.com if you have any questions or concerns.
+Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-Videos(Video-Grounded Dialogue) task, please feel free to contact me with pangweitf@bupt.cn or pangweitf@163.com if you have any questions or concerns.
 
 # GuessWhich
 GuessWhich is a cooperative image-guessing game between two agents: Q-BOT and A-BOT, like that of GuessWhat?! game that is an image object-guessing game between two players.
@@ -10,8 +8,8 @@ GuessWhich is a two player game played by Qbot and Abot. The goal of GuessWhich 
 
 The two agents communicate in natural language dialogue. In the beginning, they can see a broader set of images, in which ABot randomly selects an image as the secret that is not known to Q-BOT. Q-Bot asks a sequence of free-form natural language questions and ABot responds with free-form answers. In the end, QBot tries to identify the secret image from the fixed pool of images. If the right image is found, the dialogue is considered a success, otherwise, failure.
 
-## 1. paper 
-## 2. paper 
+## 1. under review...
+## 2. ...
 
 
 # Acknowledgements
@@ -78,5 +76,3 @@ GuessWhich is a challenging visual-language problem. It involves processing larg
  
  # Traning 
  # 
-
-
