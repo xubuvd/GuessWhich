@@ -1,6 +1,3 @@
-# About Me
-Now I've been working on the GuessWhich, Visual Dialog(VisDial) and Talking-to-Videos(Video-Grounded Dialogue) task, please feel free to contact me with pangweitf@bupt.cn or pangweitf@163.com if you have any questions or concerns.
-
 # GuessWhich
 GuessWhich is a cooperative image-guessing game between two agents: Q-BOT and A-BOT, like that of GuessWhat?! game that is an image object-guessing game between two players.
 
